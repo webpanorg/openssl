@@ -1,7 +1,7 @@
 Description
 ============
 
-This is a fork of the original QuicTLS. It is one of the recommended SSL libraries with QUIC support.
+This is a fork of the original  [QuicTLS](https://github.com/quictls/openssl). It is one of the [recommended](https://nginx.org/en/docs/quic.html)  SSL libraries with QUIC support.
 
 Why this fork is needed?
 --------------------
