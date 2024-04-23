@@ -1,6 +1,5 @@
-What This Is
-============
 Description
+============
 
 This is a fork of the original QuicTLS. It is one of the recommended SSL libraries with QUIC support.
 
