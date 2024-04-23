@@ -12,7 +12,7 @@ We are very dependent on open-source. We always try to use original libraries. B
 As insurance against this case, we offer the additional opportunity to use a tested version, even if it is outdated.
 
 
-Why do we trust?
+Why do we trust this implement?
 ------------
 
 This is a collaborative effort between [Akamai](https://www.akamai.com) and
